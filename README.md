@@ -4,10 +4,10 @@ Conversational multi-agent patterns using Microsoft AutoGen for collaborative pr
 
 ## What this covers
 
-- **Agent configurations** — AssistantAgent, UserProxyAgent, and GroupChat setups
-- **Conversation patterns** — Two-agent dialogues, group chats, and nested conversations
-- **Code execution** — Sandboxed code generation and execution within agent conversations
-- **Function calling** — Agents that call external APIs and tools during conversations
+- **Agent configurations** - AssistantAgent, UserProxyAgent, and GroupChat setups
+- **Conversation patterns** - Two-agent dialogues, group chats, and nested conversations
+- **Code execution** - Sandboxed code generation and execution within agent conversations
+- **Function calling** - Agents that call external APIs and tools during conversations
 
 ## Stack
 
